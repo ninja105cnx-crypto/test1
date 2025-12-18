@@ -1,3 +1,6 @@
 print("Hello")
 print("Hello")
 print("Hello")
+print("He")
+print("He")
+print("He")

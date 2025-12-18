@@ -1,1 +1,1 @@
-print("kuy noon")
+print("Hello")
